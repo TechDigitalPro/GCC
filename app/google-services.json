@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433509260186",
+    "project_id": "arabmoney-b13fd",
+    "storage_bucket": "arabmoney-b13fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433509260186:android:bde503463d716694347823",
+        "android_client_info": {
+          "package_name": "com.gcc.arabmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433509260186-k0ofcr7sucoc6ri5n2806p2hta5tqcqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPbXwutrUtMCxHfHqeTFeJfSlSaqbfmZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433509260186-k0ofcr7sucoc6ri5n2806p2hta5tqcqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
